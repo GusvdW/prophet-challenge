@@ -1,1 +1,1 @@
-# prophet-challenge
+# Submitting my first prophet-challenge assignment
